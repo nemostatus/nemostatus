@@ -15,3 +15,7 @@ Aside from code I enjoy
 [![Nemostatus's github stats](https://github-readme-stats.vercel.app/api?username=nemostatus)](https://github.com/nemostatus/github-readme-stats)
 
 ---
+
+<a href= "https://www.linkedin.com/in/matthew-corralejo-40b5281bb/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
