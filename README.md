@@ -15,6 +15,12 @@ Aside from code I enjoy
 [![Nemostatus's github stats](https://github-readme-stats.vercel.app/api?username=nemostatus)](https://github.com/nemostatus/github-readme-stats)
 
 ---
+<img src="https://img.shields.io/badge/<HTML5>-<RED>">
+
+
+
+
+---
 ### FIND ME AT
 
 <a href= "https://www.linkedin.com/in/matthew-corralejo-40b5281bb/" >
