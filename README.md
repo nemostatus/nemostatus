@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME 👋
 Welcome to my github! My name is Matthew, I am a Flatiron alumnus.My field of study was software engineering 
 I am currently building different projects and studying on my own. My goal is to learn how to produce clean and efficient code all while having fun .<br><br>
 Aside from code I enjoy
@@ -15,6 +15,8 @@ Aside from code I enjoy
 [![Nemostatus's github stats](https://github-readme-stats.vercel.app/api?username=nemostatus)](https://github.com/nemostatus/github-readme-stats)
 
 ---
+### MY SKILLS
+
 <img src="https://img.shields.io/badge/-HTML5-green">
 <img src="https://img.shields.io/badge/-Ruby-red">
 <img src="https://img.shields.io/badge/-Rails-red">
