@@ -7,7 +7,7 @@ Aside from code I enjoy
   <li>Music 🎵</li>
   <li>Creating stop motion videos 🎥</li>
   <li>My cat 🐱‍👤</li>
-  <br>
-MY STATS<br><br>
+ 
+**MY STATS**<br><br>
 
 [![Nemostatus's github stats](https://github-readme-stats.vercel.app/api?username=nemostatus)](https://github.com/nemostatus/github-readme-stats)
