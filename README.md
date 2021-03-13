@@ -15,7 +15,7 @@ Aside from code I enjoy
 [![Nemostatus's github stats](https://github-readme-stats.vercel.app/api?username=nemostatus)](https://github.com/nemostatus/github-readme-stats)
 
 ---
-<img src="https://img.shields.io/badge/label-HTML5-red">
+<img src="https://img.shields.io/badge/-HTML5-red">
 
 
 
