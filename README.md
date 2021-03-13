@@ -15,10 +15,20 @@ Aside from code I enjoy
 [![Nemostatus's github stats](https://github-readme-stats.vercel.app/api?username=nemostatus)](https://github.com/nemostatus/github-readme-stats)
 
 ---
-<img src="https://img.shields.io/badge/-HTML5-red">
-
-
-
+<img src="https://img.shields.io/badge/-HTML5-green">
+<img src="https://img.shields.io/badge/-Ruby-red">
+<img src="https://img.shields.io/badge/-Rails-red">
+<img src="https://img.shields.io/badge/-SQL-yellow">
+<img src="https://img.shields.io/badge/-Javascript-blue">
+<img src="https://img.shields.io/badge/-React-red">
+<img src="https://img.shields.io/badge/- CSS-grey">
+<img src="https://img.shields.io/badge/-RESTful API-yellow">
+<img src="https://img.shields.io/badge/-Version Control(Git/Github)-blue">
+<img src="https://img.shields.io/badge/-Sinatra-red">
+<img src="https://img.shields.io/badge/-JSON-grey">
+<img src="https://img.shields.io/badge/-OOP-yellow">
+<img src="https://img.shields.io/badge/-Test-Driven Development-blue">
+<img src="https://img.shields.io/badge/-Debugging-red">
 
 ---
 ### FIND ME AT
