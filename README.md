@@ -17,6 +17,6 @@ Aside from code I enjoy
 ---
 ### FIND ME AT
 
-<a href= "https://www.linkedin.com/in/matthew-corralejo-40b5281bb/" target="_blank">
+<a href= "https://www.linkedin.com/in/matthew-corralejo-40b5281bb/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
