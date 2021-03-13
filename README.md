@@ -1,4 +1,4 @@
-### **Hi there **👋
+### Hi there 👋
 Welcome to my github! My name is Matthew, I am a Flatiron alumnus.My field of study was software engineering 
 I am currently building different projects and studying on my own. My goal is to learn how to produce clean and efficient code all while having fun .<br><br>
 Aside from code I enjoy
