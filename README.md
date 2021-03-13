@@ -8,6 +8,6 @@ Aside from code I enjoy
   <li>Creating stop motion videos 🎥</li>
   <li>My cat 🐱‍👤</li>
   <br>
-  <u>MY STATS</u><br>
+<u>MY STATS</u><br>
 
 [![Nemostatus's github stats](https://github-readme-stats.vercel.app/api?username=nemostatus)](https://github.com/nemostatus/github-readme-stats)
