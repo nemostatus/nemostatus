@@ -27,7 +27,7 @@ Aside from code I enjoy
 <img src="https://img.shields.io/badge/-Sinatra-red">
 <img src="https://img.shields.io/badge/-JSON-grey">
 <img src="https://img.shields.io/badge/-OOP-yellow">
-<img src="https://img.shields.io/badge/-Test-Driven Development-blue">
+<img src="https://img.shields.io/badge/-Test Driven Development-blue">
 <img src="https://img.shields.io/badge/-Debugging-red">
 
 ---
