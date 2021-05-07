@@ -32,9 +32,7 @@ Aside from code I enjoy
 <img src="https://img.shields.io/badge/-Test Driven Development-blue">
 <img src="https://img.shields.io/badge/-Debugging-red">
 
----
-### FIND ME AT
 
-<a href= "https://www.linkedin.com/in/matthew-corralejo-40b5281bb/" >
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+
+
